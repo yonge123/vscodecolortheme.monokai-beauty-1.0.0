@@ -92,7 +92,7 @@
         "terminal.ansiWhite": "#e3e3dd",
         "terminal.ansiBrightBlack": "#666666",
         "terminal.ansiBrightRed": "#f92672",
-        "terminal.ansiBrightGreen": "#62cc8b",
+        "terminal.ansiBrightGreen": "#a9dc76",
         "terminal.ansiBrightYellow": "#e2e22e",
         "terminal.ansiBrightBlue": "#819aff",
         "terminal.ansiBrightMagenta": "#AE81FF",
@@ -204,7 +204,7 @@
             "scope": "entity.name.type, entity.name.class, entity.name.namespace, entity.name.scope-resolution",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#62cc8b"
+                "foreground": "#a9dc76"
             }
         },
         {
@@ -212,7 +212,7 @@
             "scope": "entity.other.inherited-class",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#62cc8b"
+                "foreground": "#a9dc76"
             }
         },
         {
@@ -220,7 +220,7 @@
             "scope": "entity.name.function",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#62cc8b"
+                "foreground": "#a9dc76"
             }
         },
         {
@@ -244,7 +244,7 @@
             "scope": "entity.other.attribute-name",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#62cc8b"
+                "foreground": "#a9dc76"
             }
         },
         {
@@ -318,7 +318,7 @@
             "name": "diff.inserted",
             "scope": "markup.inserted",
             "settings": {
-                "foreground": "#62cc8b"
+                "foreground": "#a9dc76"
             }
         },
         {
@@ -373,14 +373,14 @@
             "name": "Markup Headings",
             "scope": "markup.heading",
             "settings": {
-                "foreground": "#62cc8b"
+                "foreground": "#a9dc76"
             }
         },
         {
             "name": "Markup Setext Header",
             "scope": "markup.heading.setext",
             "settings": {
-                "foreground": "#62cc8b",
+                "foreground": "#a9dc76",
                 "fontStyle": "bold"
             }
         },
@@ -440,7 +440,7 @@
                 "punctuation.definition.list.begin.markdown"
             ],
             "settings": {
-                "foreground": "#62cc8b"
+                "foreground": "#a9dc76"
             }
         },
         {

@@ -12,11 +12,13 @@
         "themes": [
             {
                 "id": "Monokai Beauty A",
+                "label": "Monokai Beauty A",
                 "uiTheme": "vs-dark",
                 "path": "./themes/monokai-beauty-a-color-theme.json"
             },
             {
                 "id": "Monokai Beauty B",
+                "label": "Monokai Beauty B",
                 "uiTheme": "vs-dark",
                 "path": "./themes/monokai-beauty-b-color-theme.json"
             }
