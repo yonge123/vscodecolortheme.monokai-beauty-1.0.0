@@ -1,7 +1,12 @@
 # README
 
-## Monokai Beauty Color Theme
+## Monokai Beauty A
 
+![VSCode Monokai Beauty Color Theme](monokai_beauty_A.png)
 
-![VSCode Monokai Beauty Color Theme](monokai_beauty_color_theme_image.png)
+<b>
+
+## Monokai Beauty B
+
+![VSCode Monokai Beauty Color Theme](monokai_beauty_B.png)
 
