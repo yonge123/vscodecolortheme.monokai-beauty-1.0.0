@@ -96,7 +96,7 @@
         "terminal.ansiBrightYellow": "#e2e22e",
         "terminal.ansiBrightBlue": "#819aff",
         "terminal.ansiBrightMagenta": "#AE81FF",
-        "terminal.ansiBrightCyan": "#78dce8",
+        "terminal.ansiBrightCyan": "#81d1e9",
         "terminal.ansiBrightWhite": "#d3d1cd"
     },
     "tokenColors": [
@@ -196,7 +196,7 @@
             "scope": "storage.type",
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#78dce8"
+                "foreground": "#81d1e9"
             }
         },
         {
@@ -204,7 +204,7 @@
             "scope": "entity.name.type, entity.name.class, entity.name.namespace, entity.name.scope-resolution",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#62cc8b"
+                "foreground": "#81d1e9"
             }
         },
         {
@@ -212,7 +212,7 @@
             "scope": "entity.other.inherited-class",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#62cc8b"
+                "foreground": "#81d1e9"
             }
         },
         {
@@ -252,7 +252,7 @@
             "scope": "support.function",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#78dce8"
+                "foreground": "#81d1e9"
             }
         },
         {
@@ -260,7 +260,7 @@
             "scope": "support.constant",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#78dce8"
+                "foreground": "#81d1e9"
             }
         },
         {
@@ -268,7 +268,7 @@
             "scope": "support.type, support.class",
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#78dce8"
+                "foreground": "#81d1e9"
             }
         },
         {
@@ -358,7 +358,7 @@
             "name": "Markup Styling",
             "scope": "markup.bold, markup.italic",
             "settings": {
-                "foreground": "#78dce8"
+                "foreground": "#81d1e9"
             }
         },
         {
@@ -471,9 +471,23 @@
             "name": "this.self",
             "scope": "variable.language",
             "settings": {
-                "foreground": "#fc9867"
+                "foreground": "#aaa8a0"
             }
-        }
+        },
+        {
+            "name": "variable.parameter.function.language.special.cls.python",
+            "scope": "variable.parameter.function.language.special.cls.python",
+            "settings": {
+              "foreground": "#aaa8a0"
+            }
+        },
+        {
+            "name": "variable.parameter.function.language.special.self.python",
+            "scope": "variable.parameter.function.language.special.self.python",
+            "settings": {
+              "foreground": "#aaa8a0"
+            }
+        },
     ],
     "semanticHighlighting": true
 }
